@@ -2,6 +2,8 @@
 <h3 align="center">A passionate Web developer.</h3>
 
 # 💫 About Me:
+Currently Studying Software Engineering
+Committed to Continuous Learning
 Crafting code and forging futures with each commit.
 
 
