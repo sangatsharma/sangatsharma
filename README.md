@@ -3,7 +3,7 @@
 
  # 💫 About Me
 
-<img align="right" width="260" height="190" src="https://media.licdn.com/dms/image/v2/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1709674937953?e=1735171200&v=beta&t=R_6bRprFpjpbKEWn9fvSzUO1L4vURq-bFRlb97_lMjk" alt="About Me Image"/>
+<img align="right" width="30%" height="40%" src="https://media.licdn.com/dms/image/v2/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1709674937953?e=1735171200&v=beta&t=R_6bRprFpjpbKEWn9fvSzUO1L4vURq-bFRlb97_lMjk" alt="About Me Image"/>
 
 - Pursuing a degree in Software Engineering with a focus on full-stack development. 
 - Dedicated to continuous learning and professional growth in the tech industry.
